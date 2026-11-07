@@ -1,0 +1,3 @@
+wk-400.woff2 / wk-500.woff2: subsets of LXGW WenKai (霞鹜文楷) by lxgw, https://github.com/lxgw/LxgwWenKai — SIL Open Font License 1.1.
+fell-r.woff2 / fell-i.woff2: subsets of IM FELL English by Igino Marini, https://github.com/google/fonts/tree/main/ofl/imfellenglish — SIL Open Font License 1.1.
+Rebuild with `python fonts.py` (put the source TTFs in _fonts/).

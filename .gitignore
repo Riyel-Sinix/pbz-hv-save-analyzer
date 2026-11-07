@@ -1,0 +1,9 @@
+# AES key extracted from the user's own PBZ.exe — never publish
+key.txt
+# personal output and decrypted saves
+report.html
+work/
+# local references and full font sources (big)
+ref/
+_fonts/
+node_modules/

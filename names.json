@@ -1,0 +1,83 @@
+{
+  "_说明": "BOSS 显示名。键是存档里的类名（可去掉 BP_Monster_ 前缀；也可只写前缀，如 AHua 会匹配 AHua_xxx）。值可以是字符串，或 {名字, 称号, 英文, 备注}。",
+  "ZuoShang": {
+    "名字": "左殇",
+    "称号": "“组织”冥主",
+    "英文": "Zuo Shang, the Order's Shadow Sovereign"
+  },
+  "ZuoShang_Young": {
+    "名字": "左殇",
+    "称号": "序幕·切磋",
+    "英文": "Zuo Shang (sparring)"
+  },
+  "HookMan_HorseCartCombat": {
+    "名字": "追命",
+    "称号": "“组织”猎杀者 · 马车战",
+    "英文": "The Hunt, Hunter of the Order"
+  },
+  "HookMan": {
+    "名字": "追命",
+    "称号": "“组织”猎杀者",
+    "英文": "The Hunt, Hunter of the Order"
+  },
+  "MobMan_Elite_Sword": {
+    "名字": "残钢",
+    "称号": "痴狂暴徒",
+    "英文": "Jagged Steel, the Frenzied Brute"
+  },
+  "PengMeng_Axe": {
+    "名字": "彭猛",
+    "称号": "斧老大",
+    "英文": "Peng Meng, the Axemaster"
+  },
+  "PengMeng": {
+    "名字": "彭猛",
+    "称号": "斧老大",
+    "英文": "Peng Meng, the Axemaster"
+  },
+  "AHua_GuiTouDao": {
+    "名字": "新娘阿花",
+    "称号": "支线",
+    "英文": "Hua, Deadly Betrothed"
+  },
+  "AHua": {
+    "名字": "新娘阿花",
+    "称号": "支线",
+    "英文": "Hua, Deadly Betrothed"
+  },
+  "HookMan_P2": {
+    "名字": "追命",
+    "称号": "“组织”猎杀者 · 再战",
+    "英文": "The Hunt, Sixfold Scythe"
+  },
+  "MoTian_LongZhu_01": {
+    "名字": "金面具黑衣人",
+    "称号": "龙柱试炼 1",
+    "英文": "The Gold-Masked One"
+  },
+  "MoTian_LongZhu_02": {
+    "名字": "金面具黑衣人",
+    "称号": "龙柱试炼 2",
+    "英文": "The Gold-Masked One"
+  },
+  "MoTian_LongZhu_03": {
+    "名字": "金面具黑衣人",
+    "称号": "龙柱试炼 3",
+    "英文": "The Gold-Masked One"
+  },
+  "MoTian_LongZhu_04": {
+    "名字": "金面具黑衣人",
+    "称号": "龙柱试炼 4",
+    "英文": "The Gold-Masked One"
+  },
+  "MoTian_LongZhu_05": {
+    "名字": "金面具黑衣人",
+    "称号": "龙柱试炼 5",
+    "英文": "The Gold-Masked One"
+  },
+  "MoTian": {
+    "名字": "金面具黑衣人",
+    "称号": "",
+    "英文": "The Gold-Masked One"
+  }
+}
